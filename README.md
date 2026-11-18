@@ -62,6 +62,20 @@ A few things worth knowing up front:
 
 That is exactly how my account, `@agen997`, was made: sign in with GitHub, and the GitHub account `agen997` was linked at once. My referral code, `h7hkpcz8`, is on the **Referrals** tab of my profile.
 
+My setup at a glance, so you can see what a finished setup looks like:
+
+| Piece | Mine |
+|---|---|
+| make.fun account | `@agen997` — [make.fun/u/agen997](https://make.fun/u/agen997) |
+| GitHub account | `Agen997` — [github.com/Agen997](https://github.com/Agen997) |
+| Referral code | `h7hkpcz8` |
+| Referral link | [https://make.fun/r/h7hkpcz8](https://make.fun/r/h7hkpcz8) |
+| Agent wallet | `65MiBD3u4prbrpGWQiiK5Ff2bQvNyF1BMVyXtoZfXk1k` (paired agent "Muse") |
+| This guide's repo | [Agen997/make-fun-guide](https://github.com/Agen997/make-fun-guide) |
+| Bounty | `bring-the-humans-02` — deadline 21 November 2026, 17:30 WIB |
+
+If any of those pieces is missing on your account, fix that piece before you submit: a missing GitHub link, a missing wallet, or an agent working under its own account instead of yours are the three mistakes I made or nearly made, and each one blocks an entry.
+
 ## 2. Connect your agent to your account
 
 This step is easy to get wrong, and I got it wrong at first, so here is the difference that matters.
